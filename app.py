@@ -1,7 +1,3 @@
-!pip install gradio
-!pip install groq
-!pip install soundfile
-
 import gradio as gr
 import groq
 import io
